@@ -1,0 +1,61 @@
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.swp
+*.tmp
+*.bak
+
+# Python and tool caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+
+# Challenge binaries, archives, dumps, and generated artifacts
+*.exe
+*.dll
+*.sys
+*.bin
+*.elf
+*.so
+*.dylib
+*.apk
+*.jar
+*.class
+*.o
+*.obj
+*.pdb
+*.dmp
+*.core
+*.pcap
+*.pcapng
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+*.xz
+*.iso
+
+# Office drafts should be converted to Markdown before publication
+*.doc
+*.docx
+*.ppt
+*.pptx
+
+# Common secret or live-flag files
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+flag.txt
+flags.txt
+secrets.*
+
