@@ -4,5 +4,5 @@
 
 | 日期 | 比赛 | 分类 | 题目 | 难度 | 状态 |
 | --- | --- | --- | --- | --- | --- |
-| — | — | — | — | — | 暂无已发布 WP |
+| 2026-08-21 | self-practice | reverse | [Feedback Vault](2026/self-practice/reverse/feedback-vault/) | medium | 已验证 |
 
