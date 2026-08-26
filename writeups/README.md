@@ -4,5 +4,6 @@
 
 | 日期 | 比赛 | 分类 | 题目 | 难度 | 状态 |
 | --- | --- | --- | --- | --- | --- |
+| 2026-08-26 | self-practice | reverse | [PatchMe Chapter 20](2026/self-practice/reverse/patchme-ch20/) | medium | 静态核验 |
 | 2026-08-21 | self-practice | reverse | [Feedback Vault](2026/self-practice/reverse/feedback-vault/) | medium | 已验证 |
 
