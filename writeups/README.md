@@ -4,7 +4,7 @@
 
 | 日期 | 比赛 | 分类 | 题目 | 难度 | 状态 |
 | --- | --- | --- | --- | --- | --- |
+| 2026-09-03 | crackmes.one | reverse | [very simple keycheck](2026/crackmes-one/reverse/very-simple-keycheck/) | 1.0 | 已验证 |
 | 2026-09-02 | self-practice | reverse | [Forgotten Compressor](2026/self-practice/reverse/forgotten-compressor/) | easy | 已验证 |
 | 2026-08-26 | self-practice | reverse | [PatchMe Chapter 20](2026/self-practice/reverse/patchme-ch20/) | medium | 静态核验 |
 | 2026-08-21 | self-practice | reverse | [Feedback Vault](2026/self-practice/reverse/feedback-vault/) | medium | 已验证 |
-
