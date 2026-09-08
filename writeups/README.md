@@ -4,6 +4,7 @@
 
 | 日期 | 比赛 | 分类 | 题目 | 难度 | 状态 |
 | --- | --- | --- | --- | --- | --- |
+| 2026-09-08 | self-practice | reverse | [hellokittyfan's crackme](2026/self-practice/reverse/hellokittyfan/) | easy | 已验证 |
 | 2026-09-04 | self-practice | reverse | [hello.exe](2026/self-practice/reverse/hello-keycheck/) | easy | 已验证 |
 | 2026-09-02 | self-practice | reverse | [Forgotten Compressor](2026/self-practice/reverse/forgotten-compressor/) | easy | 已验证 |
 | 2026-08-26 | self-practice | reverse | [PatchMe Chapter 20](2026/self-practice/reverse/patchme-ch20/) | medium | 静态核验 |
